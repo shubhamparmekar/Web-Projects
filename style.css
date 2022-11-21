@@ -1,0 +1,133 @@
+body {
+    margin: 30px;
+    font-family: 'Syne Mono', monospace;
+}
+
+.head1 {
+    background-image: url(images/header.jpg);
+    text-align: center;
+    height: 200px;
+    padding: 75px;
+}
+
+.name {
+    font-size: 40px;
+    padding: 5px 10px;
+    color: white;
+    background-color: #101010;
+    opacity: 0.7;
+    position: relative;
+    display: inline;
+}
+
+.nav {
+    background-image: url(images/title.jpg);
+}
+
+.navbar {
+    padding-left: 5rem;
+}
+
+.nav-link {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    padding-left: 10ch;
+    padding-right: 12ch;
+}
+
+.text {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+iframe {
+    margin-left: 20%;
+}
+
+.same {
+    background-image: url(images/news.jpg);
+    height: 300px;
+    color: white;
+}
+
+.odd {
+    background-image: url(images/news2.jpg);
+    height: 300px;
+    color: white;
+}
+
+.article {
+    text-align: left;
+    padding: 10px;
+}
+
+.team {
+    text-align: left;
+    margin: 50px;
+    font-size: 1.5rem;
+}
+
+.friend-image {
+    width: 50%;
+    border-radius: 100%;
+    border: 2px solid black;
+}
+
+.friend-body {
+    border-color: black;
+    border-width: 1px;
+    border-style: inset;
+    box-shadow: #101010;
+}
+
+.friend {
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: #101010;
+}
+
+.game-image {
+    width: 100%;
+    height: 300px;
+}
+
+.game {
+    margin: 20px auto;
+}
+
+.footer {
+    background-image: url(images/foooter.jpg);
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+button {
+    background-color: red;
+    opacity: 50%;
+    width: 200px;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.about {
+    height: 150px;
+    padding: 20px;
+    color: white;
+    background-color: grey;
+    opacity: 1;
+    font-size: 20px;
+}
+
+.btn-link {
+    text-align: center;
+    color: black;
+    text-decoration-color: red;
+    font-stretch: semi-expanded;
+    font-size: 1.5em;
+}
